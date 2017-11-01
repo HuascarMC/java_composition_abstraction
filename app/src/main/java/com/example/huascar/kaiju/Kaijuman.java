@@ -14,4 +14,8 @@ public class Kaijuman extends Kaiju{
         return "Roar!";
     }
 
+    public String move() {
+        return "Moving";
+    }
+
 }

@@ -21,4 +21,6 @@ public abstract class Kaiju {
         vehicle.healthValue -= attackValue;
     }
 
+    public abstract String move();
+
 }
